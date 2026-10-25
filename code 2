@@ -1,0 +1,7 @@
+x=10
+alamat="Jakarta"
+pi=3.14
+
+print("yoy stycjub x is",x)
+print("you live at",alamat)
+print("pi is", pi)
